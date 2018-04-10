@@ -1,0 +1,17 @@
+{
+  "name": "es_component_angularjs",
+  "version": "1.0.0",
+  "description": "component angularjs es",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "component",
+    "js",
+    "angular",
+    "es"
+  ],
+  "author": "Jozelle Lauzon",
+  "license": "ISC"
+}
